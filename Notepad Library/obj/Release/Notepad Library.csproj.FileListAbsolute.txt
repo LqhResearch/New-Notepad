@@ -1,0 +1,6 @@
+A:\Self-created application\Research\New Notepad\Notepad Library\bin\Release\Notepad Library.dll
+A:\Self-created application\Research\New Notepad\Notepad Library\bin\Release\Notepad Library.pdb
+A:\Self-created application\Research\New Notepad\Notepad Library\obj\Release\Notepad Library.csproj.AssemblyReference.cache
+A:\Self-created application\Research\New Notepad\Notepad Library\obj\Release\Notepad Library.csproj.CoreCompileInputs.cache
+A:\Self-created application\Research\New Notepad\Notepad Library\obj\Release\Notepad Library.dll
+A:\Self-created application\Research\New Notepad\Notepad Library\obj\Release\Notepad Library.pdb

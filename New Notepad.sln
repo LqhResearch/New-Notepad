@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad GUI", "Notepad GUI\Notepad GUI.csproj", "{EEC0A2A7-4DA7-4941-A0A2-3AFAF9975166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad Library", "Notepad Library\Notepad Library.csproj", "{4592E944-C52F-410F-84F3-F72F632151F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC0A2A7-4DA7-4941-A0A2-3AFAF9975166}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC0A2A7-4DA7-4941-A0A2-3AFAF9975166}.All|Any CPU.Build.0 = Release|Any CPU
+		{EEC0A2A7-4DA7-4941-A0A2-3AFAF9975166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC0A2A7-4DA7-4941-A0A2-3AFAF9975166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC0A2A7-4DA7-4941-A0A2-3AFAF9975166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC0A2A7-4DA7-4941-A0A2-3AFAF9975166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4592E944-C52F-410F-84F3-F72F632151F2}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{4592E944-C52F-410F-84F3-F72F632151F2}.All|Any CPU.Build.0 = Release|Any CPU
+		{4592E944-C52F-410F-84F3-F72F632151F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4592E944-C52F-410F-84F3-F72F632151F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4592E944-C52F-410F-84F3-F72F632151F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4592E944-C52F-410F-84F3-F72F632151F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32CD8C20-6345-4FCD-BDC0-4BAB512C27BC}
+	EndGlobalSection
+EndGlobal

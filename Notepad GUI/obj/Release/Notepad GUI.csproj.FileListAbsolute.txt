@@ -1,0 +1,16 @@
+A:\Self-created application\Research\New Notepad\Notepad GUI\bin\Release\Notepad GUI.exe.config
+A:\Self-created application\Research\New Notepad\Notepad GUI\bin\Release\Notepad GUI.exe
+A:\Self-created application\Research\New Notepad\Notepad GUI\bin\Release\Notepad GUI.pdb
+A:\Self-created application\Research\New Notepad\Notepad GUI\bin\Release\Notepad Library.dll
+A:\Self-created application\Research\New Notepad\Notepad GUI\bin\Release\Notepad Library.pdb
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad GUI.csproj.AssemblyReference.cache
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad_GUI.FormAbout.resources
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad_GUI.FormFind.resources
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad_GUI.FormReplace.resources
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad_GUI.MainNotepad.resources
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad_GUI.Properties.Resources.resources
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad GUI.csproj.GenerateResource.cache
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad GUI.csproj.CoreCompileInputs.cache
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad GUI.csproj.CopyComplete
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad GUI.exe
+A:\Self-created application\Research\New Notepad\Notepad GUI\obj\Release\Notepad GUI.pdb
